@@ -16,7 +16,7 @@ CMD node app.js
 # Using ENTRYPOINT (executable form)
 
 # EXTERNAL_PORT 
-EXPOSE 3020
+EXPOSE 3010
 
 
 
